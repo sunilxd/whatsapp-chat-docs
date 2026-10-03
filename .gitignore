@@ -1,0 +1,6 @@
+__pycache__/
+.venv/
+*.db
+*.crypt14
+*.crypt15
+key
